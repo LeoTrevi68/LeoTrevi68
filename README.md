@@ -1,16 +1,16 @@
-## Hi there 👋
+## Data Analyst
 
-<!--
-**LeoTrevi68/LeoTrevi68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on data analysis and machine learning projects focused on real-world business and operational problems.
 
-Here are some ideas to get you started:
+My work combines Python, SQL and statistical modeling to extract insights and support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- E-commerce analytics (SQL + business insights)
+- Customer churn analysis (ML + retention drivers)
+- Machine failure prediction (industrial data)
+- SECOM failure detection (high-dimensional analysis)
+
+### Tools
+
+Python | SQL | Machine Learning | Data Analysis
