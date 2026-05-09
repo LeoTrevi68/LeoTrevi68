@@ -1,4 +1,4 @@
-## Data & Business Analytics
+## Manufacturing & Operational Analytics | Quality | Process Improvement | Power BI, SQL, Python
 
 I analyze data to solve real-world operational and business problems.
 
