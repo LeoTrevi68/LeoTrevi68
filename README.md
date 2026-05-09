@@ -26,4 +26,4 @@ I use Python, SQL, machine learning and visualization tools to support decision-
 
 ### Tools
 
-Python | SQL | Power BI | Machine Learning | Data Analysis
+Python | SQL | Power BI | Predictive Analytics | Data Analysis
