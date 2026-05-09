@@ -1,8 +1,8 @@
 ## Manufacturing & Operational Analytics | Quality | Process Improvement | Power BI, SQL, Python
 
-I analyze data to solve real-world operational and business problems.
+I use data analytics to improve operational performance, manufacturing processes and business decision-making through structured analysis, visualization and process-oriented problem solving.
 
-My work focuses on identifying patterns, understanding process behavior, and translating data into actionable insights.
+My projects focus on operational analytics, process behavior, quality trends and predictive analysis to support data-driven decision-making.
 
 I use Python, SQL, machine learning and visualization tools to support decision-making in areas such as customer behavior, revenue performance and industrial processes.
 
