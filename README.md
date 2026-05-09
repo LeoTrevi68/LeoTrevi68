@@ -4,7 +4,7 @@ I use data analytics to improve operational performance, manufacturing processes
 
 My projects focus on operational analytics, process behavior, quality trends and predictive analysis to support data-driven decision-making.
 
-I use Python, SQL, machine learning and visualization tools to support decision-making in areas such as customer behavior, revenue performance and industrial processes.
+I use Python, SQL and visualization tools to support operational analysis, KPI monitoring and data-driven decision-making in manufacturing and business environments.
 
 ---
 
