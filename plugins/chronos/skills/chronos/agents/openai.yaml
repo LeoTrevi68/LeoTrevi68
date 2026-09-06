@@ -1,0 +1,6 @@
+interface:
+  display_name: "Chronos"
+  short_description: "Construye y revisa reactivos A–E."
+  default_prompt: "Audita el Reactivo 9 de Resistencia a presión social."
+policy:
+  allow_implicit_invocation: true
